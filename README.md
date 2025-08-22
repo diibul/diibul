@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello There!👋
+## I'm Diibul!
 
 <!--
 **diibul/diibul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👤 I'm a computer science student, who is still learning many things.
